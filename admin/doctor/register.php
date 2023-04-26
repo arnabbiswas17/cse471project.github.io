@@ -94,14 +94,11 @@ hr {
       
     <select name="special">  
     <option value="" >Speciality of ... </option>  
-    <option value="Medicine">Medicine</option>  
-    <option value="Cardiac">Cardiac</option>  
-    <option value="Dentist">Dentist</option>  
-    <option value="Surgeery">Surgery</option>  
-    <option value="Child Specialst">Child Specialst</option>  
-    <option value="Darmatologis">Darmatologist</option> 
-    <option value="Gynocologist">Gynocologist</option> 
-    <option value="Radiologist">Radiologist</option>
+    <option value="Schizophrenia">Schizophrenia</option>  
+    <option value="PTSD">PTSD</option>  
+    <option value="Anxiety Disorder">Anxiety Disorder</option>  
+    <option value="Counsellor">Counsellor</option>  
+    <option value="Brain & Drug Addiction Specialist">Brain & Drug Addiction Specialist</option>  
     </select>  
     </div> 
 
@@ -112,7 +109,7 @@ Phone :
 <input type="text" name="phone" placeholder="Phone No." size="11"/ required>   
   
  <label for="email"><b>Room NO.</b></label>  
- <input type="text" placeholder="Enter Email" name="room" required>  
+ <input type="text" placeholder="Enter Room No" name="room" required>  
 
  <div>
     <label for="birthday">Birthday:</label>
